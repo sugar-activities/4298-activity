@@ -1,0 +1,10 @@
+[Activity]
+name = Turtle Art Mini
+activity_version = 93
+license = MIT
+bundle_id = org.laptop.TurtleArtMiniActivity
+exec = sugar-activity TurtleArtMiniActivity.TurtleArtMiniActivity
+icon = activity-turtleart
+show_launcher = yes
+update_url = http://wiki.laptop.org/go/Activities/G1G1
+mime_types = application/x-turtle-art
